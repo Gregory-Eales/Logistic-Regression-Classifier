@@ -1,17 +1,13 @@
 # Logistic-Regression-Classifier
 
 ## Overview:
-This is a simple perceptron model which is trained to classify samples from the iris dataset. This model consists of two input features of both the petal and sepal length for each of the Seratos and Vericolor iris species. <br/>
-
-z =  x^{T}*\theta 
+Text. <br/>
 
 ## Requirements:
 
 Python3: https://www.python.org/ <br/>
 
 NumPy: http://www.numpy.org/ <br/>
-
-Pandas: https://pandas.pydata.org/ <br/>
 
 Matplotlib: https://matplotlib.org/ <br/>
 
