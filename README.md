@@ -45,11 +45,11 @@ Text.
 </p>
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Sigmoid-Equation.png" width="500"/>
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Sigmoid-Equation.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Z-Equation.png" width="500"/>
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Z-Equation.png" width="300"/>
 </p>
 
 
