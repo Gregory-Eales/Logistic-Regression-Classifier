@@ -3,6 +3,8 @@
 ## Overview:
 This is a simple perceptron model which is trained to classify samples from the iris dataset. This model consists of two input features of both the petal and sepal length for each of the Seratos and Vericolor iris species. <br/>
 
+z =  x^{T}*\theta 
+
 ## Requirements:
 
 Python3: https://www.python.org/ <br/>
