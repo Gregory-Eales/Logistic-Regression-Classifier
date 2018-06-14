@@ -37,7 +37,7 @@ Text.
 
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Iris%20Data.png" width="500"/>
+  <img src="" width="500"/>
 </p>
 
 Text.
@@ -54,9 +54,6 @@ Text.
   <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Gradient-Equation.png" width="500"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Gradient-Equation.png" width="500"/>
-</p>
 
 
 
@@ -64,7 +61,7 @@ Text.
 ## Results:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Classified%20Iris%20Data.png" width="500"/>
+  <img src="" width="500"/>
 </p>
 
 Text.
