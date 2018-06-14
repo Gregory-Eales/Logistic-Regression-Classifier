@@ -37,11 +37,7 @@ Text.
 ## Training:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Gradient-Equation.png" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Logistic-Cost-Equation.png" width="500"/>
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Z-Equation.png" width="200"/>
 </p>
 
 <p align="center">
@@ -49,8 +45,17 @@ Text.
 </p>
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Z-Equation.png" width="200"/>
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Logistic-Cost-Equation.png" width="500"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Gradient-Equation.png" width="500"/>
+</p>
+
+
+
+
+
 
 
 
