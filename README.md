@@ -17,12 +17,20 @@ Matplotlib: https://matplotlib.org/ <br/>
   <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Model-Diagram.png" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Z-Equation.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Sigmoid-Equation.png" width="280"/>
+</p>
+
 Text.
 
 ## Data:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Example%20Data%20Table.png" width="400"/>
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Logistic-Data.png" width="400"/>
 </p>
 
 Text.
@@ -36,13 +44,7 @@ Text.
 
 ## Training:
 
-<p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Z-Equation.png" width="200"/>
-</p>
 
-<p align="center">
-  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Sigmoid-Equation.png" width="280"/>
-</p>
 
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Logistic-Cost-Equation.png" width="500"/>
@@ -52,9 +54,9 @@ Text.
   <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Gradient-Equation.png" width="500"/>
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Logistic-Regression-Classifier/blob/master/Images/Gradient-Equation.png" width="500"/>
+</p>
 
 
 
